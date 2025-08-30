@@ -1,7 +1,9 @@
-# Zebra-Sales-Video-Library
- Zebra-セールス動画集
+### Zebra-Sales-Video-Library
+# Zebra-セールス動画集
 
  ※ 不定期で更新中
+
+</br>
 
 ## 組み込みプリンタ・オートメーション印刷
 
@@ -32,6 +34,9 @@
   </tbody>
 </table>
 
+
+</br>
+</br>
 
 
 ## ■ スキャナ
